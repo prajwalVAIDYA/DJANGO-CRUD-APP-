@@ -2,8 +2,8 @@
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using the Django web framework.
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/fbea2e93-d266-47a2-85a4-9d968cdb7a97)
-) 
+![image](https://github.com/user-attachments/assets/fbea2e93-d266-47a2-85a4-9d968cdb7a97)
+
 
 ## Features
 
@@ -37,7 +37,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using the
 
 6. Open your web browser and visit http://127.0.0.1:8000/crud/ to access the application.
 
-Usage
+## Usage
 - To create a new member, click on the "Create Member" link or navigate to http://127.0.0.1:8000/crud/create/. Fill in the member details and submit the form.
 - The home page (http://127.0.0.1:8000/crud/) displays a list of all members.
 - To edit a member, click on the "Edit" link next to the desired member. Update the details and save the changes.
